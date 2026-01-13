@@ -1,3 +1,8 @@
+! Title: Allowlist
+! Author: DuanJie
+! Homepage: https://github.com/DuanJie315
+
+
 @@||myds.me^
 @@||duanjie.xyz^
 @@||xbox.com^
